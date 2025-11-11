@@ -11,7 +11,7 @@
 7. ***12th Details (Board, %age)*** = CBSE, 97.4%
 8. ***JEE Adv CRL*** = 5800
 9. ***Enrollment No.*** = IIT2025073
-10. *** Hobbies *** = Playing table tennis, badminton, listening music, reading manga, manhwa and light novels, etc,
-11. *** Tech Parent *** = Utkarsh Roy Sir
+10. ***Hobbies*** = Playing table tennis, badminton, listening music, reading manga, manhwa and light novels, etc,
+11. ***Tech Parent*** = Utkarsh Roy Sir
 
 
