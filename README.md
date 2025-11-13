@@ -15,4 +15,4 @@
 11. ***Tech Parent*** = Utkarsh Roy Sir
 
 ## Something about college you wanna tell:-
-Nescafe shop's actual name is ***Prayagraj Upvan*** (Source: IIITA Handbook)
+In case you don't know, Nescafe shop's actual name is ***Prayagraj Upvan*** (Source: IIITA Handbook)
